@@ -66,18 +66,18 @@ public:
 <!--PROJECTS:START-->
 | | Project | What it does | Lang | ⭐ |
 |:-:|:--|:--|:-:|:-:|
-| 🧮 | [**c-calculator**](https://github.com/assassin-cloud/c-calculator) | A simple calculator built with C++ | C++ | 1 |
+| 🏧 | [**ATM_SIMULATOR**](https://github.com/assassin-cloud/ATM_SIMULATOR) | Multi-account ATM: PIN login, deposits, withdrawals and transfers | C++ | 1 |
 | 🧮 | [**Bulk-calculator**](https://github.com/assassin-cloud/Bulk-calculator) | Lets you calculate in bulk | C++ | 1 |
-| 🧮 | [**Love-calculator**](https://github.com/assassin-cloud/Love-calculator) | A just-for-fun compatibility meter that turns two names into a love % | C++ | 1 |
-| 🌡️ | [**Temperature-converter**](https://github.com/assassin-cloud/Temperature-converter) | Convert between temperature units | C++ | 1 |
-| 📊 | [**basic-number-statistic**](https://github.com/assassin-cloud/basic-number-statistic) | A simple number analyzer for basic stats on your inputs | C++ | 1 |
-| 🧱 | [**Array-creator**](https://github.com/assassin-cloud/Array-creator) | Pick a size, enter the values, get your array back (dynamic memory) | C++ | 1 |
-| 🔷 | [**shape-generator**](https://github.com/assassin-cloud/shape-generator) | Generates shapes in the console | C++ | 1 |
-| 📇 | [**MyContacts**](https://github.com/assassin-cloud/MyContacts) | A console contact manager | C++ | 1 |
 | ✅ | [**TODO**](https://github.com/assassin-cloud/TODO) | Command-line task manager: add, view, complete/undo and delete tasks | C++ | 1 |
 | ❌⭕ | [**TIC-TAC-TOE**](https://github.com/assassin-cloud/TIC-TAC-TOE) | Two-player game with win/draw detection, custom names and a scoreboard | C++ | 1 |
-| 🏧 | [**ATM_SIMULATOR**](https://github.com/assassin-cloud/ATM_SIMULATOR) | Multi-account ATM: PIN login, deposits, withdrawals and transfers | C++ | 1 |
+| 🧱 | [**Array-creator**](https://github.com/assassin-cloud/Array-creator) | Pick a size, enter the values, get your array back (dynamic memory) | C++ | 1 |
 | 🏧 | [**atm-machine**](https://github.com/assassin-cloud/atm-machine) | The first, PIN-protected ATM: balance, withdraw and deposit | C++ | 1 |
+| 🔷 | [**shape-generator**](https://github.com/assassin-cloud/shape-generator) | Generates shapes in the console | C++ | 1 |
+| 🌡️ | [**Temperature-converter**](https://github.com/assassin-cloud/Temperature-converter) | Convert between temperature units | C++ | 1 |
+| 🧮 | [**c-calculator**](https://github.com/assassin-cloud/c-calculator) | A simple calculator built with C++ | C++ | 1 |
+| 📇 | [**MyContacts**](https://github.com/assassin-cloud/MyContacts) | A console contact manager | C++ | 1 |
+| 📊 | [**basic-number-statistic**](https://github.com/assassin-cloud/basic-number-statistic) | A simple number analyzer for basic stats on your inputs | C++ | 1 |
+| 🧮 | [**Love-calculator**](https://github.com/assassin-cloud/Love-calculator) | A just-for-fun compatibility meter that turns two names into a love % | C++ | 1 |
 <!--PROJECTS:END-->
 
 <br/>
