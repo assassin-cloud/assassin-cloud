@@ -66,8 +66,8 @@ public:
 <!--PROJECTS:START-->
 | | Project | What it does | Lang | ⭐ |
 |:-:|:--|:--|:-:|:-:|
-| 🧮 | [**Bulk-calculator**](https://github.com/assassin-cloud/Bulk-calculator) | Lets you calculate in bulk | C++ | 1 |
 | 🏧 | [**ATM_SIMULATOR**](https://github.com/assassin-cloud/ATM_SIMULATOR) | Multi-account ATM: PIN login, deposits, withdrawals and transfers | C++ | 1 |
+| 🧮 | [**Bulk-calculator**](https://github.com/assassin-cloud/Bulk-calculator) | Lets you calculate in bulk | C++ | 1 |
 | ✅ | [**TODO**](https://github.com/assassin-cloud/TODO) | Command-line task manager: add, view, complete/undo and delete tasks | C++ | 1 |
 | ❌⭕ | [**TIC-TAC-TOE**](https://github.com/assassin-cloud/TIC-TAC-TOE) | Two-player game with win/draw detection, custom names and a scoreboard | C++ | 1 |
 | 🧱 | [**Array-creator**](https://github.com/assassin-cloud/Array-creator) | Pick a size, enter the values, get your array back (dynamic memory) | C++ | 1 |
