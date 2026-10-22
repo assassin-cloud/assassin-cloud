@@ -66,7 +66,7 @@ public:
 <!--PROJECTS:START-->
 | | Project | What it does | Lang | ⭐ |
 |:-:|:--|:--|:-:|:-:|
-| 📁 | [**cake**](https://github.com/assassin-cloud/cake) | Coming soon | C++ | 1 |
+| 📁 | [**cake**](https://github.com/assassin-cloud/cake) | Reciept generator | C++ | 1 |
 | 🏧 | [**ATM_SIMULATOR**](https://github.com/assassin-cloud/ATM_SIMULATOR) | Multi-account ATM: PIN login, deposits, withdrawals and transfers | C++ | 1 |
 | 🧮 | [**c-calculator**](https://github.com/assassin-cloud/c-calculator) | A simple calculator built with C++ | C++ | 1 |
 | 🧮 | [**Bulk-calculator**](https://github.com/assassin-cloud/Bulk-calculator) | Lets you calculate in bulk | C++ | 1 |
