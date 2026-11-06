@@ -53,7 +53,7 @@ public:
 
 <br/>
 
-![LLMs](https://img.shields.io/badge/%F0%9F%A4%96%20LLMs-b388ff?style=for-the-badge&labelColor=1e2327)
+
 
 </div>
 
